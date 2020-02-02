@@ -1,3 +1,4 @@
+# lib/dog.rb
 class Dog
 end
 
